@@ -22,7 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-### Contacts
+### ✉️ Contacts :
 <div>
     <a href="https://t.me/ArtGeas">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/>
