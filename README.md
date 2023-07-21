@@ -1,10 +1,9 @@
 <h1 align="center">Greetings!<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <div aling="center">
-<details>
-  <summary>About me</summary>
-  I'm programmer-developer
-</details>
+  
+ ## Welcome to my GitHub! 
+
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
